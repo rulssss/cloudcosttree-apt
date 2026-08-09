@@ -24,4 +24,4 @@ sudo apt update && sudo apt upgrade cloudcosttree
 ```
 
 Signed with the CloudCostTree Release Signing Key (RSA 4096,
-`F85029EBC06386140D2C70965B0BAA4D41238A77`).
+`505105DEA056043EDB7B2BD1302E19DA08BF5428`).
