@@ -4,13 +4,13 @@ Section:
 Installed-Size: 31587
 Maintainer: CloudCostTree <support@cloudcosttree.com>
 Architecture: amd64
-Version: 0.2.23
-Filename: pool/main/c/cloudcosttree/cloudcosttree_0.2.23_amd64.deb
-Size: 9115920
-MD5sum: 487a04acdfae0a1947b5d9110b7cf935
-SHA1: 4803a78f0d62e8c04a8dd39257e8e60a8ba0e4c4
-SHA256: fe92ee7b88c417ca9912170270d02bedf482842cb9b00ea11dc0a3570f3da8a2
-SHA512: 692e2e0fb2f9a9ec8bf2837d76d99c30106378bf078f3990120801e8a482624f3bf3e8df7b20113a1dfc5f59b25c0dfae85fac2c12cb5743328bc737a7a6d9ae
+Version: 0.2.24
+Filename: pool/main/c/cloudcosttree/cloudcosttree_0.2.24_amd64.deb
+Size: 9115914
+MD5sum: c12067bf95cad06de548b6c3fa3c6a2a
+SHA1: 10f4c26bd302716236efa794ed2ab7e15e359ee6
+SHA256: 2003d0a8dddd4fc8ca2ce086d009a6f3390a9cfcbc0e183fcb16ba9948f7b306
+SHA512: f6383ab305651990a1503fd817d1f42e59fe54234a44636922a95fc2aabcdfbc1233eb72ac6ecf2cbf2689cc02007c17030537248a8df44bdde6df5476c44b92
 Description: Estimate AWS infrastructure costs in a hierarchical tree before you apply
 Homepage: https://cloudcosttree.com
 
